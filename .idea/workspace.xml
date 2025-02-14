@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3f86072-d5fa-4822-b787-e93e504f370b" name="Changes" comment="2" />
+    <list default="true" id="b3f86072-d5fa-4822-b787-e93e504f370b" name="Changes" comment="2">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_2/src/ExpressionHandling.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment_2/src/ExpressionHandling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment_2/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,12 +24,12 @@
     &quot;assignee&quot;: &quot;OskartheBob&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/OskartheBob/University-Assignments.git&quot;,
-    &quot;accountId&quot;: &quot;277379d2-2759-48ba-b06e-50d34fe660ef&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/OskartheBob/University-Assignments",
+    "accountId": "afbf6c85-4b30-48d8-a832-c39556a7d6c8"
   }
-}</component>
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -43,8 +48,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/IntelliJ IDEA Community Edition 2024.3.2.2/University-Assignments/Assignment_2/src",
+    "last_opened_file_path": "C:/Users/Administrator/Desktop/OOP/OOP_2_Assignment_2",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "editor.preferences.completion"
   }
 }]]></component>
